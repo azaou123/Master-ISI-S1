@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Monde>
+    <Continenet>
+        <nom>Afrique</nom>
+        <liste>
+            <pays>
+                <nom>Nigeria</nom>
+                <nom>Abuja</nom>
+                <nom>Naira</nom>
+            </pays>
+            <pays>
+                <nom>South Africa</nom>
+                <nom>Pretoria</nom>
+                <nom>South African Rand</nom>
+            </pays>
+        </liste>
+    </Continenet>
+    <Continenet>
+        <nom>America</nom>
+        <liste>
+            <pays>
+                <nom>United States</nom>
+                <nom>Washington, D.C.</nom>
+                <nom>US Dollar</nom>
+            </pays>
+            <pays>
+                <nom>Brazil</nom>
+                <nom>Brasília</nom>
+                <nom>Brazilian Real</nom>
+            </pays>
+        </liste>
+    </Continenet>
+    <Continenet>
+        <nom>Asia</nom>
+        <liste>
+            <pays>
+                <nom>Japan</nom>
+                <nom>Tokyo</nom>
+                <nom>Japanese Yen</nom>
+            </pays>
+            <pays>
+                <nom>China</nom>
+                <nom>Beijing</nom>
+                <nom>Chinese Yuan</nom>
+            </pays>
+        </liste>
+    </Continenet>
+    <Continenet>
+        <nom>Europe</nom>
+        <liste>
+            <pays>
+                <nom>France</nom>
+                <nom>Paris</nom>
+                <nom>Euro</nom>
+            </pays>
+            <pays>
+                <nom>Germany</nom>
+                <nom>Berlin</nom>
+                <nom>Euro</nom>
+            </pays>
+        </liste>
+    </Continenet>
+    <Continenet>
+        <nom>Oceania</nom>
+        <liste>
+            <pays>
+                <nom>Australia</nom>
+                <nom>Canberra</nom>
+                <nom>Australian Dollar</nom>
+            </pays>
+            <pays>
+                <nom>New Zealand</nom>
+                <nom>Wellington</nom>
+                <nom>New Zealand Dollar</nom>
+            </pays>
+        </liste>
+    </Continenet>
+</Monde>

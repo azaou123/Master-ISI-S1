@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MailSystem>
+    <Courier>
+        <Code pattern="^C[a-zA-Z]{2}\d$">C123</Code>
+        <Letters>
+            <Letter>
+                <SenderAddress>
+                    <Title>Mme</Title>
+                    <FirstName>Jane</FirstName>
+                    <LastName>Doe</LastName>
+                    <Number obligatory="true">123</Number>
+                    <Apartment obligatory="false">Apartment 123</Apartment>
+                    <Street obligatory="true">Main Street</Street>
+                    <PostalCode>1234</PostalCode>
+                    <City obligatory="true">New York</City>
+                </SenderAddress>
+                <DestinationAddress>
+                    <Title>M.</Title>
+                    <FirstName>John</FirstName>
+                    <LastName>Smith</LastName>
+                    <Apartment/>
+                    <Street>Second Avenue</Street>
+                    <PostalCode>5678</PostalCode>
+                    <City>Los Angeles</City>
+                    <Country>USA</Country>
+                </DestinationAddress>
+                <Date>
+                    <Day min="1" max="31">15</Day>
+                    <Month>September</Month>
+                    <Year min="2001" max="9999">2023</Year>
+                </Date>
+                <Subject>Important Documents</Subject>
+                <Body>
+                    <Paragraph>This is the first paragraph.</Paragraph>
+                    <Paragraph>This is the second paragraph.</Paragraph>
+                </Body>
+            </Letter>
+            <Letter>
+            </Letter>
+        </Letters>
+    </Courier>
+</MailSystem>

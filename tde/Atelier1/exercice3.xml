@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Events>
+    <Event>
+        <Title>Conference on Technology Trends</Title>
+        <Theme>Informatique</Theme>
+        <Date>08-01-2023</Date>
+        <Location>
+            <Name>Convention Center</Name>
+            <Capacity>1700</Capacity>
+        </Location>
+        <Budget>
+            <Amount>10000</Amount>
+            <Currency>USD</Currency>
+        </Budget>
+        <Activities>
+            <Activity>
+                <Title>Keynote Address</Title>
+                <Duration>60</Duration> 
+            </Activity>
+        </Activities>
+        <Participants>
+            <Guest>
+                <Name>John Doe</Name>
+                <ID>ABCDEFGH</ID>
+                <Affiliation>XYZ Corporation</Affiliation>
+            </Guest>
+            <Speaker>
+                <Name>Jane Smith</Name>
+                <ID>IJKLMNOP</ID>
+                <Affiliation>ABC University</Affiliation>
+                <Language>Français</Language> 
+            </Speaker>
+        </Participants>
+    </Event>
+</Events>
